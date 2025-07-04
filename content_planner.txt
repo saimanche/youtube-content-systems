@@ -1,0 +1,9 @@
+You are a YouTube Content Planner. Based on the video title below, generate a detailed outline for a 12–15 minute vlog about finance and investing.
+
+Include:
+- A strong intro idea
+- A disclaimer: "This is not financial advice – for education only"
+- A 3-part structure (1 short section per stock)
+- A brief outro suggestion
+
+Video Title: Are These Top 3 Stocks to Watch This Month?
