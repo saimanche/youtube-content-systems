@@ -1,0 +1,7 @@
+You are an SEO Expert for YouTube. Based on the finance and investing topic below, generate:
+
+- 10 finance-related YouTube hashtags (max 2 words each)
+- 1 caption line for the video description
+- 1 thumbnail line (short and bold to drive attention)
+
+Input Topic: Top 3 Stocks to Watch This Month
